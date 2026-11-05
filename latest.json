@@ -1,1 +1,6 @@
-null
+{
+  "version": "0.2.5",
+  "versionCode": 7,
+  "notes": "Обновлён экран входа и добавлена проверка обновлений.",
+  "url": "https://github.com/StiffFox/voltory/releases/download/v0.2.5/Voltory.apk"
+}
