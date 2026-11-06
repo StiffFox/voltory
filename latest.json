@@ -1,6 +1,6 @@
 {
-  "version": "0.2.6",
-  "versionCode": 8,
-  "notes": "На экране энергосистемы рядом с мощностью солнечных панелей отображается их напряжение, если инвертор передаёт оба показателя. Напряжение видно и при мощности 0 Вт.",
-  "url": "https://github.com/StiffFox/voltory/releases/download/v0.2.6/Voltory.apk"
+  "version": "0.2.7",
+  "versionCode": 9,
+  "notes": "Добавлена статистика солнечной выработки за выбранный день.",
+  "url": "https://github.com/StiffFox/voltory/releases/download/v0.2.7/Voltory.apk"
 }
