@@ -1,6 +1,6 @@
 {
-  "version": "0.2.7",
-  "versionCode": 9,
-  "notes": "Добавлена статистика солнечной выработки за выбранный день.",
-  "url": "https://github.com/StiffFox/voltory/releases/download/v0.2.7/Voltory.apk"
+  "version": "0.2.8",
+  "versionCode": 10,
+  "notes": "Перестановка карточек удержанием, кнопка добавления показателей и сохранение порядка. Упрощена подпись солнечной выработки.",
+  "url": "https://github.com/StiffFox/voltory/releases/download/v0.2.8/Voltory.apk"
 }
